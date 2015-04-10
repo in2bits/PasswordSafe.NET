@@ -6,7 +6,7 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PasswordSafe.NET - in2bits")]
+[assembly: AssemblyTitle("PasswordSafe.NET")]
 [assembly: AssemblyDescription(".NET PCL Implementation of PasswordSafe v3 format (Read/Write)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("in2bits")]

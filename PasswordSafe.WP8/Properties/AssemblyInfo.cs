@@ -6,8 +6,8 @@ using System.Resources;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PasswordSafe.Crypto.WP8 - in2bits")]
-[assembly: AssemblyDescription("Windows Phone 8.1 Crypto assemly for PasswordSafe.NET")]
+[assembly: AssemblyTitle("PasswordSafe.WP8")]
+[assembly: AssemblyDescription("WP8 Implementation of PasswordSafe v3 format (Read/Write)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("in2bits")]
 [assembly: AssemblyProduct("PasswordSafe.NET")]
@@ -21,7 +21,7 @@ using System.Resources;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9940a48f-f5ee-4ddf-9a24-bc643272b25e")]
+[assembly: Guid("6e2d01ac-10f0-4cad-a18c-1fe2dec76e81")]
 
 // Version information for an assembly consists of the following four values:
 //
